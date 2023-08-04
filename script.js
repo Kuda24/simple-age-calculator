@@ -4,7 +4,8 @@ let b = parseInt(prompt("Enter second number: "));
 
 //create an addition function
 function addition() {
-
+  //The addition function will return the addition for input a and b.
+return a + b;
 }
-//The addition function will return the addition for input a and b
+
 //Invoke addition function to run the calculator
